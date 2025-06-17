@@ -82,7 +82,7 @@ Make sure you have Python 3 and Jupyter Notebook installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Basic-Skin-Tone-NN.git](https://github.com/your-username/Basic-Skin-Tone-NN.git)
+    git clone https://github.com/sleeping3119/Basic-Skin-Tone-NN.git
     cd Basic-Skin-Tone-NN
     ```
 
